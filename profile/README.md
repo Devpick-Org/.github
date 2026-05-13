@@ -1,6 +1,18 @@
+<div align="center">
+
 # Trace
 
 흩어진 기술 콘텐츠와 채용 정보를 한곳에 모아, 학습부터 취업 준비까지 이어주는 개발자 성장 플랫폼입니다.
+
+### [Trace 서비스 바로가기](https://traceapp-orcin.vercel.app/)
+
+https://traceapp-orcin.vercel.app/
+
+</div>
+
+## Service Preview
+
+![Trace Service Preview](./assets/showcase.png)
 
 Trace는 여러 기술 블로그, 커뮤니티, 영상, 채용 공고를 수집하고 정규화한 뒤 사용자의 관심사에 맞게 보여줍니다. 콘텐츠를 읽는 데서 끝나지 않고 레벨별 AI 요약, 문서 근거 기반 질의응답, 주간 트렌드 분석, 이력서와 모의면접 기능까지 연결해 학습 기록이 실제 취업 준비로 이어지도록 설계했습니다.
 
@@ -14,10 +26,7 @@ Trace는 여러 기술 블로그, 커뮤니티, 영상, 채용 공고를 수집�
 
 ## Architecture
 
-<!-- 시스템 아키텍처 이미지는 여기에 추가하세요.
-예시:
 ![Trace Architecture](./assets/architecture.png)
--->
 
 Trace는 Next.js 프론트엔드, Spring Boot 백엔드, FastAPI AI 서버로 구성됩니다. 운영 환경에서는 프론트엔드를 Vercel에서 제공하고, 브라우저의 API 요청은 Nginx를 거쳐 Spring Boot로 전달됩니다. AI 요약과 RAG 답변은 FastAPI가 Amazon Bedrock, DynamoDB, FAISS 인덱스를 활용해 처리합니다.
 
