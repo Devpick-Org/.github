@@ -32,9 +32,9 @@ Trace는 Next.js 프론트엔드, Spring Boot 백엔드, FastAPI AI 서버로 �
 
 ## Project Management
 
-![Trace Jira WBS](./assets/jira-wbs.png)
-
 Trace는 Jira 기반 WBS로 기능 단위 작업을 나누고, 백로그, 진행 상태, 담당자, 우선순위를 추적하며 개발했습니다. 주요 설계 결정, 트러블슈팅 기록, 회의 내용은 Confluence에 남겨 팀원이 같은 맥락을 공유할 수 있도록 했습니다. 이를 통해 프론트엔드, 백엔드, AI, 인프라 작업이 분리되어 있어도 일정과 이슈를 한 흐름에서 관리했습니다.
+
+👉 [전체 Jira WBS 이미지 보기](https://github.com/Devpick-Org/.github/blob/master/profile/assets/jira-wbs.png)
 
 ## Repositories
 
