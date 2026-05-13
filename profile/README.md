@@ -1,12 +1,21 @@
 <div align="center">
 
+<img src="./assets/logo.png" width="140" alt="Trace Logo" />
+
 # Trace
 
 흩어진 기술 콘텐츠와 채용 정보를 한곳에 모아, 학습부터 취업 준비까지 이어주는 개발자 성장 플랫폼입니다.
 
-### [Trace 서비스 바로가기](https://traceapp-orcin.vercel.app/)
+<br />
 
-https://traceapp-orcin.vercel.app/
+<a href="https://traceapp-orcin.vercel.app/">
+  <strong>Trace 서비스 바로가기</strong>
+</a>
+
+<br />
+<br />
+
+<code>https://traceapp-orcin.vercel.app/</code>
 
 </div>
 
