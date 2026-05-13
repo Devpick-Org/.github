@@ -52,3 +52,52 @@ Trace는 Next.js 프론트엔드, Spring Boot 백엔드, FastAPI AI 서버로 �
 ## Team
 
 DevPick is building Trace as a capstone project focused on practical developer learning, technical content discovery, and career preparation.
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://github.com/khg9859">
+        <img src="https://github.com/khg9859.png" width="96" height="96" style="border-radius: 50%;" alt="김홍근" />
+      </a>
+      <br />
+      <strong>김홍근</strong>
+      <br />
+      <sub>PM / Backend Lead</sub>
+      <br />
+      <a href="https://github.com/khg9859">@khg9859</a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/nYeonG4001">
+        <img src="https://github.com/nYeonG4001.png" width="96" height="96" style="border-radius: 50%;" alt="박하영" />
+      </a>
+      <br />
+      <strong>박하영</strong>
+      <br />
+      <sub>Backend</sub>
+      <br />
+      <a href="https://github.com/nYeonG4001">@nYeonG4001</a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/suheon98">
+        <img src="https://github.com/suheon98.png" width="96" height="96" style="border-radius: 50%;" alt="조수헌" />
+      </a>
+      <br />
+      <strong>조수헌</strong>
+      <br />
+      <sub>AX</sub>
+      <br />
+      <a href="https://github.com/suheon98">@suheon98</a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/uiuuoq">
+        <img src="https://github.com/uiuuoq.png" width="96" height="96" style="border-radius: 50%;" alt="홍보민" />
+      </a>
+      <br />
+      <strong>홍보민</strong>
+      <br />
+      <sub>Frontend</sub>
+      <br />
+      <a href="https://github.com/uiuuoq">@uiuuoq</a>
+    </td>
+  </tr>
+</table>
