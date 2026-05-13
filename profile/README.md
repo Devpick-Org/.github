@@ -36,6 +36,10 @@ Trace는 Jira 기반 WBS로 기능 단위 작업을 나누고, 백로그, 진행
 
 👉 [전체 Jira WBS 원본 이미지 보기](https://raw.githubusercontent.com/Devpick-Org/.github/master/profile/assets/jira-wbs.png)
 
+👉 [Confluence 문서 모음 PDF 보기](https://github.com/Devpick-Org/.github/blob/master/profile/assets/confluence.pdf)
+
+Confluence 문서에는 PRD, 서비스 개요, 회의록, 설계 문서, 트러블슈팅 기록 등 프로젝트 진행 과정에서 작성한 주요 산출물을 함께 정리했습니다.
+
 ## Repositories
 
 | Repository | Role |
