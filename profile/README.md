@@ -22,6 +22,9 @@
 ## Service Preview
 
 <div align="center">
+  <img src="./assets/showcase.png" width="100%" alt="Trace Service Preview" />
+  <br />
+  <br />
   <video src="./assets/trace-preview.mp4" controls width="80%"></video>
 </div>
 
