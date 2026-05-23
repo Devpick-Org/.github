@@ -122,17 +122,6 @@ Trace는 여러 기술 블로그, 커뮤니티, 영상, 채용 공고를 수집�
       <sub>구독 플랜, 결제 흐름, 사용자 환경 설정을 제공</sub>
     </td>
   </tr>
-  <tr>
-    <td></td>
-    <td width="33%" valign="top" align="center">
-      <img src="./assets/gifs/trend.gif" alt="주간 조회수와 기술 블로그 동향, 키워드와 태그별 직무" width="100%" />
-      <br />
-      <strong>주간 조회수와 기술 블로그 동향</strong>
-      <br />
-      <sub>수집 기술 블로그, 키워드, 태그별 직무 흐름을 분석</sub>
-    </td>
-    <td></td>
-  </tr>
 </table>
 
 ## What We Build
