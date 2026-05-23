@@ -21,54 +21,37 @@
 
 ## Service Preview
 
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="./assets/demo-content-card.gif" alt="기술 콘텐츠 수집과 AI 요약 화면" width="100%" />
-      <br />
-      <strong>기술 콘텐츠 수집과 AI 요약</strong>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./assets/demo-jobs-card.gif" alt="채용 공고 매칭 화면" width="100%" />
-      <br />
-      <strong>채용 공고 매칭</strong>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./assets/demo-trends-report-card.gif" alt="트렌드와 활동 리포트 화면" width="100%" />
-      <br />
-      <strong>트렌드와 활동 리포트</strong>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=WbdHGSQpq20">
+    <img src="https://img.youtube.com/vi/WbdHGSQpq20/hqdefault.jpg" width="80%" alt="Trace Service Preview" />
+  </a>
+  <br />
+  <br />
+  <a href="https://www.youtube.com/watch?v=WbdHGSQpq20"><strong>YouTube에서 Trace 소개 영상 보기</strong></a>
+</div>
 
 Trace는 여러 기술 블로그, 커뮤니티, 영상, 채용 공고를 수집하고 정규화한 뒤 사용자의 관심사에 맞게 보여줍니다. 콘텐츠를 읽는 데서 끝나지 않고 레벨별 AI 요약, 문서 근거 기반 질의응답, 주간 트렌드 분석, 이력서와 모의면접 기능까지 연결해 학습 기록이 실제 취업 준비로 이어지도록 설계했습니다.
 
-## Screen Demos
+## GIF Demos
 
 <table>
   <tr>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/content-ai.png">
-        <img src="./assets/features/content-ai.png" width="260" alt="기술 콘텐츠 수집과 AI 요약" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/content-ai.gif" alt="기술 콘텐츠 수집과 AI 요약" width="100%" />
       <br />
       <strong>기술 콘텐츠 수집과 AI 요약</strong>
       <br />
       <sub>여러 출처 수집, 정규화, 레벨별 AI 요약과 질의응답</sub>
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/quiz.png">
-        <img src="./assets/features/quiz.png" width="260" alt="난이도별 AI 퀴즈" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/quiz.gif" alt="난이도별 AI 퀴즈" width="100%" />
       <br />
       <strong>난이도별 AI 퀴즈</strong>
       <br />
       <sub>콘텐츠 이해도를 단계별 문제로 점검하고 학습 흐름을 이어감</sub>
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/community.png">
-        <img src="./assets/features/community.png" width="260" alt="커뮤니티 질문 AI 개선과 AI 1차 답변" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/community.gif" alt="커뮤니티 질문 AI 개선과 AI 1차 답변" width="100%" />
       <br />
       <strong>커뮤니티 질문 AI 개선과 AI 1차 답변</strong>
       <br />
@@ -76,28 +59,22 @@ Trace는 여러 기술 블로그, 커뮤니티, 영상, 채용 공고를 수집�
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/job.png">
-        <img src="./assets/features/job.png" width="260" alt="채용 공고 매칭" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/job.gif" alt="채용 공고 매칭" width="100%" />
       <br />
       <strong>채용 공고 매칭</strong>
       <br />
       <sub>이력서 기술 스택과 채용 공고를 비교해 매칭도를 계산</sub>
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/resume.png">
-        <img src="./assets/features/resume.png" width="260" alt="이력서 관리와 면접 QA 역량 보완" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/resume.gif" alt="이력서 관리와 면접 QA 역량 보완" width="100%" />
       <br />
       <strong>이력서 관리와 면접 QA 역량 보완</strong>
       <br />
       <sub>이력서 분석, 면접 Q&A, 부족 역량 추천을 취업 준비로 연결</sub>
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/mock-interview.png">
-        <img src="./assets/features/mock-interview.png" width="260" alt="모의면접" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/mock-interview.gif" alt="모의면접" width="100%" />
       <br />
       <strong>모의면접</strong>
       <br />
@@ -105,28 +82,22 @@ Trace는 여러 기술 블로그, 커뮤니티, 영상, 채용 공고를 수집�
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/report-point.png">
-        <img src="./assets/features/report-point.png" width="260" alt="트렌드와 활동 리포트" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/report-point.gif" alt="트렌드와 활동 리포트" width="100%" />
       <br />
       <strong>트렌드와 활동 리포트</strong>
       <br />
       <sub>주간 학습 기록, 포인트, 배지, 리포트 차트를 제공</sub>
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/retrospect.png">
-        <img src="./assets/features/retrospect.png" width="260" alt="마이페이지 회고" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/retrospect.gif" alt="마이페이지 회고" width="100%" />
       <br />
       <strong>마이페이지 회고</strong>
       <br />
       <sub>학습 활동과 성장을 돌아보는 개인 기록 공간</sub>
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/recommend-content.png">
-        <img src="./assets/features/recommend-content.png" width="260" alt="사용자 맞춤 추천글" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/recommend-content.gif" alt="사용자 맞춤 추천글" width="100%" />
       <br />
       <strong>사용자 맞춤 추천글</strong>
       <br />
@@ -134,28 +105,22 @@ Trace는 여러 기술 블로그, 커뮤니티, 영상, 채용 공고를 수집�
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/recommend-youtube.png">
-        <img src="./assets/features/recommend-youtube.png" width="260" alt="추천 유튜브" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/recommend-youtube.gif" alt="추천 유튜브" width="100%" />
       <br />
       <strong>추천 유튜브</strong>
       <br />
       <sub>학습 주제에 맞는 개발 영상 콘텐츠를 추천</sub>
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/recommend-book.png">
-        <img src="./assets/features/recommend-book.png" width="260" alt="추천 서적" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/recommend-book.gif" alt="추천 서적" width="100%" />
       <br />
       <strong>추천 서적</strong>
       <br />
       <sub>기술 스택과 성장 목표에 맞는 서적을 추천</sub>
     </td>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/subscription.png">
-        <img src="./assets/features/subscription.png" width="260" alt="결제 시스템과 다크모드" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/subscription.gif" alt="결제 시스템과 다크모드" width="100%" />
       <br />
       <strong>결제 시스템과 다크모드</strong>
       <br />
@@ -164,10 +129,8 @@ Trace는 여러 기술 블로그, 커뮤니티, 영상, 채용 공고를 수집�
   </tr>
   <tr>
     <td></td>
-    <td align="center" width="33%" valign="top">
-      <a href="./assets/features/trend.png">
-        <img src="./assets/features/trend.png" width="260" alt="주간 조회수와 기술 블로그 동향, 키워드와 태그별 직무" />
-      </a>
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/gifs/trend.gif" alt="주간 조회수와 기술 블로그 동향, 키워드와 태그별 직무" width="100%" />
       <br />
       <strong>주간 조회수와 기술 블로그 동향</strong>
       <br />
