@@ -270,3 +270,25 @@ DevPick is building Trace as a capstone project focused on practical developer l
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+<br />
+
+<a href="#service-preview">
+  <strong>시연영상 바로 보러가기</strong>
+</a>
+
+<br />
+<br />
+
+<a href="https://traceapp-orcin.vercel.app/">
+  <strong>Trace 서비스 바로가기</strong>
+</a>
+
+<br />
+<br />
+
+<code>https://traceapp-orcin.vercel.app/</code>
+
+</div>
