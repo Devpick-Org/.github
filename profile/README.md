@@ -274,4 +274,4 @@ DevPick is building Trace as a capstone project focused on practical developer l
 
 ## Demo Video
 
-<video src="./assets/trace-preview.mp4" controls width="100%"></video>
+<video src="https://github.com/Devpick-Org/.github/raw/master/profile/assets/trace-preview.mp4" controls width="100%" type="video/mp4"></video>
