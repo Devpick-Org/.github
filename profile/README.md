@@ -85,34 +85,11 @@ Trace는 여러 기술 블로그, 커뮤니티, 영상, 채용 공고를 수집�
       <sub>주간 학습 기록, 포인트, 배지, 리포트 차트를 제공</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./assets/gifs/retrospect.gif" alt="마이페이지 회고" width="100%" />
+      <img src="./assets/gifs/mypage-recommend.gif" alt="마이페이지 회고와 맞춤 추천" width="100%" />
       <br />
-      <strong>마이페이지 회고</strong>
+      <strong>마이페이지 회고와 맞춤 추천</strong>
       <br />
-      <sub>학습 활동과 성장을 돌아보는 개인 기록 공간</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./assets/gifs/recommend-content.gif" alt="사용자 맞춤 추천글" width="100%" />
-      <br />
-      <strong>사용자 맞춤 추천글</strong>
-      <br />
-      <sub>관심 기술과 활동 이력에 맞춰 읽을 콘텐츠를 추천</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="./assets/gifs/recommend-youtube.gif" alt="추천 유튜브" width="100%" />
-      <br />
-      <strong>추천 유튜브</strong>
-      <br />
-      <sub>학습 주제에 맞는 개발 영상 콘텐츠를 추천</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./assets/gifs/recommend-book.gif" alt="추천 서적" width="100%" />
-      <br />
-      <strong>추천 서적</strong>
-      <br />
-      <sub>기술 스택과 성장 목표에 맞는 서적을 추천</sub>
+      <sub>회고, 맞춤 추천글, 추천 유튜브, 추천 서적을 한 흐름으로 제공</sub>
     </td>
     <td width="33%" valign="top" align="center">
       <img src="./assets/gifs/subscription.gif" alt="결제 시스템과 다크모드" width="100%" />
