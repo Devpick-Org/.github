@@ -8,14 +8,14 @@
 
 <br />
 
-<a href="https://traceapp-orcin.vercel.app/">
+<a href="https://traceapp.site/">
   <strong>Trace 서비스 바로가기</strong>
 </a>
 
 <br />
 <br />
 
-<code>https://traceapp-orcin.vercel.app/</code>
+<code>https://traceapp.site/</code>
 
 </div>
 
