@@ -22,7 +22,7 @@
 ## Service Preview
 
 <div align="center">
-  <img src="./assets/showcase.png" width="100%" alt="Trace Service Preview" />
+  <img src="./assets/pamphlet.png" width="100%" alt="Trace Service Preview" />
 </div>
 
 Trace는 여러 기술 블로그, 커뮤니티, 영상, 채용 공고를 수집하고 정규화한 뒤 사용자의 관심사에 맞게 보여줍니다. 콘텐츠를 읽는 데서 끝나지 않고 레벨별 AI 요약, 문서 근거 기반 질의응답, 주간 트렌드 분석, 이력서와 모의면접 기능까지 연결해 학습 기록이 실제 취업 준비로 이어지도록 설계했습니다.
